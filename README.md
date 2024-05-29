@@ -24,9 +24,9 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 - Analyzed and fine-tuned SNORT rules to enhance network security and threat detection.
 
 ## 📜 Certifications
-- **Google Cybersecurity Certificate, 2023**
-- **Arcx, Foundation Level Threat Intelligence Analyst, 2024**
-- **Qualys Vulnerability Management Detection & Response, 2023**
+- ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-2023-4285F4?style=for-the-badge&logo=google)
+- ![Arcx Foundation Level Threat Intelligence Analyst](https://img.shields.io/badge/Arcx_Foundation_Level_Threat_Intelligence_Analyst-2024-00BFFF?style=for-the-badge&logo=arcgis)
+- ![Qualys Vulnerability Management Detection & Response](https://img.shields.io/badge/Qualys_Vulnerability_Management_Detection_&_Response-2023-007396?style=for-the-badge&logo=qualys)
 
 ## Interests
 - **🔒 Cybersecurity:** Enthusiast in protecting information and systems.
@@ -35,7 +35,7 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 
 ## 📫 Contact Me
 
-Feel free to reach out to me on [LinkedIn](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
 
 ## 🙏 Acknowledgements
 
