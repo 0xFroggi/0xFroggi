@@ -37,6 +37,3 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 
-## 🙏 Acknowledgements
-
-Thanks for stopping by! Check out my projects and let’s connect.
