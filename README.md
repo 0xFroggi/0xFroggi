@@ -7,7 +7,7 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 
 ### 🔧 TECHNICAL PROJECTS
 
-#### 🛡️ [Nessus Vulnerability Scanner Implementation in Homelab](https://github.com/yourusername/nessus-repository-name](https://github.com/0xFroggi/NessusProject)
+#### 🛡️ [Nessus Vulnerability Scanner Implementation in Homelab](https://github.com/0xFroggi/NessusProject)
 - Deployed a Nessus vulnerability scanner in a homelab environment to identify and address security flaws.
 - Configured one Windows machine to be intentionally vulnerable by stopping automatic updates, turning off the firewall, and installing outdated, insecure software.
 - Installed and configured Nessus on an Ubuntu Linux machine to perform scans and detect security issues on the Windows machine.
