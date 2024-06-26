@@ -7,6 +7,11 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 
 ### 🔧 TECHNICAL PROJECTS
 
+#### 🛡️ [Nessus Vulnerability Scanner Implementation in Homelab](https://github.com/yourusername/nessus-repository-name](https://github.com/0xFroggi/NessusProject)
+- Deployed a Nessus vulnerability scanner in a homelab environment to identify and address security flaws.
+- Configured one Windows machine to be intentionally vulnerable by stopping automatic updates, turning off the firewall, and installing outdated, insecure software.
+- Installed and configured Nessus on an Ubuntu Linux machine to perform scans and detect security issues on the Windows machine.
+
 #### 🛡️ AI-Based Malicious Content Detector Web Application
 - Developed a machine learning model in Python to classify URLs and email content as malicious or benign.
 - Integrated AI model into a Flask web application, enabling real-time analysis of user-submitted content.
