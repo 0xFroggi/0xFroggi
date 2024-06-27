@@ -3,9 +3,8 @@
 
 Hi there! I'm 0xFroggi, a computer science and information security student passionate about cybersecurity. Currently, I'm studying to enhance my skills and knowledge in the field.
 
-## Projects
+## 🔧 Projects
 
-### 🔧 TECHNICAL PROJECTS
 
 #### 🛡️ [Nessus Vulnerability Scanner Implementation in Homelab](https://github.com/0xFroggi/NessusProject)
 - Deployed a Nessus vulnerability scanner in a homelab environment to identify and address security flaws.
