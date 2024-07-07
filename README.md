@@ -17,6 +17,12 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 - Utilized Python, Flask, and machine learning libraries for project development, achieving over 90% accuracy.
 - Gained hands-on experience in AI, web development, and cybersecurity through project implementation.
 
+### 🔒 Cloud-Based Password Manager Implementation
+- Deployed a password manager in a cloud environment to enhance secure access management and data protection.
+- Configured a cloud-based virtual machine to host the password manager application, ensuring a secure and scalable infrastructure.
+- Implemented secure access controls and encryption within the password manager to safeguard sensitive data and fortify the system against potential threats.
+
+
 #### ☁️ Cloud-Based Network Performance Testing
 - Deployed a cloud-hosted speed test platform using Docker containers.
 - Utilized the LibreSpeed container image to conduct network speed tests.
