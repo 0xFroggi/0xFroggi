@@ -5,7 +5,7 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 
 ## 🔧 Projects
 
-#### 🛡️ [SOC Automation Lab with Wazuh, TheHive, Sysmon, Shuffle, and VirusTotal](https://github.com/your-repo-link)
+#### 🛡️ [SOC Automation Lab with Wazuh, TheHive, Sysmon, Shuffle, and VirusTotal](https://github.com/0xFroggi/Security-Operation-Center-SOC-Automation-Project)
 - Deployed a Security Operations Center (SOC) automation lab to detect, analyze, and respond to security threats using Wazuh, TheHive, Sysmon, Shuffle, and VirusTotal.
 - Configured Wazuh to collect and analyze logs from Sysmon for detailed event monitoring, such as process execution.
 - Created custom rules in Wazuh to detect Mimikatz activity and validate alerts in the dashboard.
