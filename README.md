@@ -5,6 +5,13 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 
 ## 🔧 Projects
 
+#### 🛡️ [SOC Automation Lab with Wazuh, TheHive, Sysmon, Shuffle, and VirusTotal](https://github.com/your-repo-link)
+- Deployed a Security Operations Center (SOC) automation lab to detect, analyze, and respond to security threats using Wazuh, TheHive, Sysmon, Shuffle, and VirusTotal.
+- Configured Wazuh to collect and analyze logs from Sysmon for detailed event monitoring, such as process execution.
+- Created custom rules in Wazuh to detect Mimikatz activity and validate alerts in the dashboard.
+- Automated threat response workflows in Shuffle by enriching Wazuh alerts with VirusTotal, sending email notifications, and creating cases in TheHive for incident management.
+- Streamlined SOC operations by integrating multiple tools for real-time threat detection, response, and reporting.
+
 
 #### 🛡️ [Nessus Vulnerability Scanner Implementation in Homelab](https://github.com/0xFroggi/NessusProject)
 - Deployed a Nessus vulnerability scanner in a homelab environment to identify and address security flaws.
