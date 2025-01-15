@@ -41,9 +41,11 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 - Analyzed and fine-tuned SNORT rules to enhance network security and threat detection.
 
 ## 📜 Certifications
+- ![TryHackMe SOC Level 1 Certificate](https://img.shields.io/badge/2025-TryHackMe_SOC_Level_1_Certificate-FF5733?style=for-the-badge&logo=tryhackme)
 - ![Google Cybersecurity Certificate](https://img.shields.io/badge/2023-Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google)
 - ![Arcx Foundation Level Threat Intelligence Analyst](https://img.shields.io/badge/2024-Arcx_Foundation_Level_Threat_Intelligence_Analyst-00BFFF?style=for-the-badge&logo=arcgis)
 - ![Qualys Vulnerability Management Detection & Response](https://img.shields.io/badge/2023-Qualys_Vulnerability_Management_Detection_&_Response-007396?style=for-the-badge&logo=qualys)
+
 
 ## Interests
 - **🔒 Cybersecurity:** Enthusiast in protecting information and systems.
