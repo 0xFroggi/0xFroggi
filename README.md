@@ -18,7 +18,7 @@ Hi there! I'm 0xFroggi, a computer science and information security student pass
 - Configured a Windows virtual machine to be intentionally vulnerable by stopping automatic updates, turning off the firewall, and installing outdated, insecure software.
 - Installed and configured Nessus on an Ubuntu Linux machine to perform scans and detect security issues on the Windows machine.
 
-#### 🛡️ AI-Based Malicious Content Detector Web Application
+#### 🛡️ [AI-Based Malicious Content Detector Web Application](https://github.com/0xFroggi/AI-Based-Malicious-Content-Detector-Web-Application)
 - Developed a machine learning model in Python to classify URLs and email content as malicious or benign.
 - Integrated AI model into a Flask web application, enabling real-time analysis of user-submitted content.
 - Utilized Python, Flask, and machine learning libraries for project development, achieving over 90% accuracy.
